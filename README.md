@@ -2,9 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Instagram
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me -- @code_with-jarviss
 
 <!---
 Abhijeet-Tripathi-09/Abhijeet-Tripathi-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
